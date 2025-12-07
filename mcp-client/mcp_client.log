@@ -1,0 +1,222 @@
+2025-12-07 00:53:52,861 - MCPClient - ERROR - Error connecting to MCP server: Server script must be py or js
+2025-12-07 00:53:52,863 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 00:54:53,863 - MCPClient - ERROR - Error connecting to MCP server: Server script must be py or js
+2025-12-07 00:54:53,864 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 00:58:29,984 - MCPClient - ERROR - Error connecting to MCP server: Server script must be py or js
+2025-12-07 00:58:29,986 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 00:58:41,921 - MCPClient - ERROR - Error connecting to MCP server: Server script must be py or js
+2025-12-07 00:58:41,923 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 00:59:04,581 - MCPClient - ERROR - Error connecting to MCP server: Server script must be py or js
+2025-12-07 00:59:04,583 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 09:55:18,496 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-12-07 09:55:18,501 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 09:55:53,776 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-12-07 09:55:53,779 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 09:56:04,645 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-12-07 09:56:04,648 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 09:56:38,056 - MCPClient - INFO - connected to MCP server
+2025-12-07 09:56:38,057 - MCPClient - ERROR - Error connecting to MCP server: 'coroutine' object is not iterable
+2025-12-07 09:56:38,253 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:00:16,314 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:00:16,315 - MCPClient - ERROR - Error connecting to MCP server: 'coroutine' object is not iterable
+2025-12-07 10:00:16,537 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:00:46,136 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:00:46,136 - MCPClient - ERROR - Error connecting to MCP server: 'coroutine' object is not iterable
+2025-12-07 10:00:46,356 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:01:06,795 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:01:06,806 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:09:47,337 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:09:51,324 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:09:51,336 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:10:09,060 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:10:12,424 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:10:12,436 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:10:30,541 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:10:34,072 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:10:34,083 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:10:45,046 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:10:48,425 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:10:48,435 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:11:45,024 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:11:48,460 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:11:48,469 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:13:55,577 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:13:58,992 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:13:59,002 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:16:30,892 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:16:34,325 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:16:34,335 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:17:08,532 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:17:11,933 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:17:11,944 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:17:52,191 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:17:55,665 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:17:55,676 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:18:23,453 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:18:27,052 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:18:27,062 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:19:52,582 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:19:56,084 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:19:56,095 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:25:33,428 - MCPClient - INFO - Processing query
+2025-12-07 10:25:33,428 - MCPClient - INFO - Problem processing
+2025-12-07 10:25:35,727 - MCPClient - INFO - Processing query
+2025-12-07 10:25:35,727 - MCPClient - INFO - Problem processing
+2025-12-07 10:25:55,628 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:25:59,147 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:25:59,157 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:26:01,811 - MCPClient - INFO - Processing query
+2025-12-07 10:26:01,811 - MCPClient - INFO - Calling llm
+2025-12-07 10:26:02,180 - MCPClient - INFO - Problem calling llm
+2025-12-07 10:26:02,181 - MCPClient - INFO - Problem processing
+2025-12-07 10:34:39,570 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:34:43,358 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:34:43,369 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:34:55,605 - MCPClient - INFO - Processing query
+2025-12-07 10:34:55,606 - MCPClient - INFO - Calling llm
+2025-12-07 10:34:55,860 - MCPClient - INFO - Problem calling llm
+2025-12-07 10:34:55,861 - MCPClient - INFO - Problem processing
+2025-12-07 10:36:09,067 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:36:12,960 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:36:12,971 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:36:16,426 - MCPClient - INFO - Processing query
+2025-12-07 10:36:16,427 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:17,672 - MCPClient - INFO - Problem calling llm
+2025-12-07 10:36:17,672 - MCPClient - INFO - Problem processing
+2025-12-07 10:36:42,859 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:36:46,525 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:36:46,534 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:36:46,537 - MCPClient - INFO - Processing query
+2025-12-07 10:36:46,537 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:47,520 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:48,509 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:49,515 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:50,825 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:51,830 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:53,018 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:54,348 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:55,565 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:56,629 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:57,690 - MCPClient - INFO - Calling llm
+2025-12-07 10:36:58,809 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:00,112 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:01,241 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:02,666 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:03,698 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:04,831 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:06,473 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:08,703 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:09,814 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:10,923 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:11,822 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:13,321 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:14,321 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:15,720 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:16,820 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:17,799 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:19,028 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:20,096 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:21,136 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:22,459 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:23,771 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:24,880 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:26,192 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:27,305 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:28,322 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:29,381 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:30,660 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:31,880 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:33,201 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:34,415 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:35,425 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:36,636 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:38,142 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:39,527 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:40,740 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:41,749 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:42,760 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:43,780 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:45,083 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:46,091 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:47,205 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:48,189 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:49,427 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:51,045 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:52,258 - MCPClient - INFO - Calling llm
+2025-12-07 10:37:54,018 - MCPClient - INFO - Calling llm
+2025-12-07 10:39:44,932 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:39:44,941 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:39:54,215 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:39:57,784 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:39:57,794 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:40:00,138 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:40:03,811 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:40:03,823 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:40:07,452 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:40:07,466 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:40:37,302 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:40:40,646 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:40:40,655 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:42:11,257 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:42:14,692 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:42:14,702 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:42:41,496 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:42:44,780 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:42:44,791 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:43:46,653 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:43:49,983 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:43:49,993 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:44:05,117 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:44:08,468 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:44:08,481 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:44:37,464 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:44:40,817 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:44:40,828 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:45:12,731 - MCPClient - INFO - Processing query
+2025-12-07 10:45:12,732 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 10:45:14,041 - MCPClient - INFO - Calling tool get_docs with args {'query': 'connect langchain and chromadb', 'library': 'langchain'}
+2025-12-07 10:45:14,216 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 10:45:21,320 - MCPClient - INFO - Calling tool get_docs with args {'query': 'chromadb', 'library': 'langchain'}
+2025-12-07 10:45:21,407 - MCPClient - INFO - Calling llm with 5 messages
+2025-12-07 10:45:22,585 - MCPClient - INFO - Calling tool get_docs with args {'query': 'chromadb', 'library': 'chromadb'}
+2025-12-07 10:45:22,598 - MCPClient - INFO - Calling llm with 7 messages
+2025-12-07 10:52:27,730 - MCPClient - INFO - Processing query
+2025-12-07 10:52:27,730 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 10:52:29,043 - MCPClient - INFO - Calling tool get_docs with args {'query': 'connect langchain chromadb', 'library': 'langchain'}
+2025-12-07 10:52:29,126 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 10:56:34,903 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 10:56:38,954 - MCPClient - INFO - connected to MCP server
+2025-12-07 10:56:38,965 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 10:56:40,690 - MCPClient - INFO - Processing query
+2025-12-07 10:56:40,690 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 10:56:41,832 - MCPClient - INFO - Calling tool get_docs with args {'query': 'langchain chromadb', 'library': 'langchain'}
+2025-12-07 10:56:41,937 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 11:02:55,736 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 11:02:58,140 - MCPClient - INFO - connected to MCP server
+2025-12-07 11:02:58,147 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 11:03:02,948 - MCPClient - INFO - Processing query
+2025-12-07 11:03:02,949 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 11:03:04,351 - MCPClient - INFO - Calling tool get_docs with args {'query': 'connect langchain and chromadb', 'library': 'langchain'}
+2025-12-07 11:03:04,482 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 11:07:17,685 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 11:07:20,177 - MCPClient - INFO - connected to MCP server
+2025-12-07 11:07:20,184 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 11:09:34,446 - MCPClient - INFO - Disconnected from MCP server
+2025-12-07 11:09:37,113 - MCPClient - INFO - connected to MCP server
+2025-12-07 11:09:37,123 - MCPClient - INFO - Avialbale tools [{'name': 'get_docs', 'description': '\nSearch the docs for a given query and library.\nSupports langchain, openai and llama-index.\n\nArgs:\n  query: The query to search for (e.g. "Chroma DB")\n  library: The library to search in (e.g. "langchain")\n\nReturns:\n  Text from the documentation.\n', 'input_schema': {'properties': {'query': {'title': 'Query', 'type': 'string'}, 'library': {'title': 'Library', 'type': 'string'}}, 'required': ['query', 'library'], 'title': 'get_docsArguments', 'type': 'object'}}]
+2025-12-07 11:09:38,409 - MCPClient - INFO - Processing query
+2025-12-07 11:09:38,409 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 11:09:39,798 - MCPClient - INFO - Calling tool get_docs with args {'query': 'connect langchain chromadb', 'library': 'langchain'}
+2025-12-07 11:09:40,464 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 11:10:32,643 - MCPClient - INFO - Processing query
+2025-12-07 11:10:32,643 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 11:10:55,589 - MCPClient - INFO - Processing query
+2025-12-07 11:10:55,590 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 11:10:56,689 - MCPClient - INFO - Calling tool get_docs with args {'query': 'llama-index chromadb', 'library': 'llama-index'}
+2025-12-07 11:10:57,414 - MCPClient - INFO - Calling llm with 3 messages
+2025-12-07 11:10:58,634 - MCPClient - INFO - Calling tool get_docs with args {'query': 'llama-index chromadb', 'library': 'chromadb'}
+2025-12-07 11:10:58,639 - MCPClient - INFO - Calling llm with 5 messages
+2025-12-07 11:11:53,425 - MCPClient - INFO - Processing query
+2025-12-07 11:11:53,425 - MCPClient - INFO - Calling llm with 1 messages
+2025-12-07 11:11:54,548 - MCPClient - INFO - Calling tool get_docs with args {'query': 'openai chromadb', 'library': 'langchain'}
+2025-12-07 11:11:55,287 - MCPClient - INFO - Calling llm with 3 messages
